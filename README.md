@@ -1,0 +1,1 @@
+# LightningChart Performance Test
